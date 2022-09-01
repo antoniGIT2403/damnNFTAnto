@@ -1,0 +1,9 @@
+.btn-cta{
+    border: 3px solid white;
+}
+.twitter-logo{
+    width: 250px;
+}
+.z-negatif{
+    z-index: -10;
+}
